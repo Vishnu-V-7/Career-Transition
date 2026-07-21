@@ -29,6 +29,26 @@ My goal is not just to learn tools but to build production-ready projects that s
 - AI Agents
 - Cloud Deployment
 
+## 2026 Goals
+
+- Master Python
+- Master SQL
+- Build 10 portfolio projects
+- Learn Data Engineering
+- Learn AI Engineering
+- Switch into a higher-impact analytics role
+
+## Progress
+
+- ✅ GitHub Setup
+- ⬜ Resume Update
+- ⬜ LinkedIn Update
+- ⬜ Portfolio Project #1
+- ⬜ SQL Mastery
+- ⬜ Python Intermediate
+- ⬜ Data Engineering
+- ⬜ AI Engineering
+
 ## Repository Structure
 
 ```
