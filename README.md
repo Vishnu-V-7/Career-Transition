@@ -2,7 +2,7 @@
 
 Hi, I'm Vishnu.
 
-I am a Data Analyst with 2+ years of experience in Excel, Tableau, SQL and Workforce Analytics.
+Data Analyst with 2+ years of experience in Workforce Analytics, Excel, Tableau, reporting automation, and SQL. Passionate about building AI-powered data solutions.
 
 This repository documents my journey of transitioning into an AI Engineer and Data Engineer.
 
